@@ -2,7 +2,7 @@ package com.testingshastra;
 
 import java.util.Scanner;
 
-public class Additionofdigit {
+public class palidrom {
 	public static void main(String[] args) {
 		int[] x = { 12, 34, 11, 56, 74, 54, 98 };
 		for (int i = 0; i < x.length; i++) {
